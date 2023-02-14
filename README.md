@@ -1,4 +1,4 @@
-# Intel-for-display-Nvidia-for-computing
+# Intel for display Nvidia for computing
 
 ### Basic problems:
 
